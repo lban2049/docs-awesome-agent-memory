@@ -1,0 +1,3 @@
+[submodule "sources/Awesome-Agent-Memory"]
+	path = sources/Awesome-Agent-Memory
+	url = https://github.com/TeleAI-UAGI/Awesome-Agent-Memory.git
