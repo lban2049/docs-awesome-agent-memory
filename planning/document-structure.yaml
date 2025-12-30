@@ -1,0 +1,12 @@
+project:
+  title: "Awesome Agent Memory"
+  description: "大语言模型与多模态模型的记忆机制资源汇总：系统、基准测试、论文及最新进展"
+
+documents:
+  - title: "Agent Memory 完整指南"
+    description: "涵盖领域概述、技术分类、产品系统、论文研究、基准测试、教程资源等全方位内容的详细指南"
+    path: "/agent-memory-guide.md"
+    sourcePaths:
+      - "sources/Awesome-Agent-Memory/README.md"
+      - "sources/Awesome-Agent-Memory/LICENSE"
+    icon: "lucide:brain"
